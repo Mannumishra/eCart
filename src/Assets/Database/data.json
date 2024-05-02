@@ -1,0 +1,666 @@
+{
+  "maincategory": [
+    {
+      "name": "Kids",
+      "id": 1
+    },
+    {
+      "name": "Female",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Male"
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "Trouser",
+      "id": 1
+    },
+    {
+      "name": "Tshirt",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Shirt"
+    },
+    {
+      "id": 4,
+      "name": "Jeans"
+    }
+  ],
+  "brand": [
+    {
+      "id": 1,
+      "name": "Tommy Hilfiger"
+    },
+    {
+      "name": "Polo",
+      "id": 2
+    },
+    {
+      "name": "Gucci",
+      "id": 3
+    },
+    {
+      "name": "Zara",
+      "id": 4
+    },
+    {
+      "name": "Nike",
+      "id": 5
+    },
+    {
+      "name": "Reebok",
+      "id": 6
+    },
+    {
+      "name": "Puma",
+      "id": 7
+    },
+    {
+      "name": "Adidas",
+      "id": 8
+    },
+    {
+      "name": "Cobb",
+      "id": 9
+    },
+    {
+      "name": "H&M",
+      "id": 10
+    },
+    {
+      "name": "Mufti",
+      "id": 11
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Male Jeans Slim Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "30",
+      "baseprice": 9850,
+      "discount": 65,
+      "finalprice": 3447.5,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner05.jpg",
+      "pic2": "banner08.jpg",
+      "pic3": "banner07.jpg",
+      "pic4": "banner03.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Male Jeans Regular Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 4500,
+      "discount": 50,
+      "finalprice": 2250,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner15.jpg",
+      "pic2": "banner05.jpg",
+      "pic3": "banner07.jpg",
+      "pic4": "main-product04.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Male Jeans Black",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 6500,
+      "discount": 65,
+      "finalprice": 2275,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "product05.jpg",
+      "pic2": "thumb-product04.jpg",
+      "pic3": "banner06.jpg",
+      "pic4": "banner08.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Male Jeans Blue",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": 48700,
+      "discount": 87,
+      "finalprice": 6331,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product<span style=\"color: rgb(241, 196, 15);\"><strong><em> </em></strong></span></p>\n<p><span style=\"color: rgb(241, 196, 15);\"><strong><em>This is the sample product</em></strong></span></p>",
+      "pic1": "product08.jpg",
+      "pic2": "banner07.jpg",
+      "pic3": "banner05.jpg",
+      "pic4": "banner04.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Male Tshirt Polo",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Polo",
+      "color": "White",
+      "size": "MD",
+      "baseprice": 4500,
+      "discount": 80,
+      "finalprice": 900,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "product07.jpg",
+      "pic2": "banner08.jpg",
+      "pic3": "banner02.jpg",
+      "pic4": "banner03.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Male Shirt Nike",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Nike",
+      "color": "Green Check",
+      "size": "XL",
+      "baseprice": 4500,
+      "discount": 90,
+      "finalprice": 450,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "product06.jpg",
+      "pic2": "banner08.jpg",
+      "pic3": "banner06.jpg",
+      "pic4": "banner08.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Male Tshirt Black Adidas",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "XXL",
+      "baseprice": 15000,
+      "discount": 80,
+      "finalprice": 3000,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner10.jpg",
+      "pic2": "banner08.jpg",
+      "pic3": "banner06.jpg",
+      "pic4": "banner08.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Male Trouser Polo",
+      "maincategory": "Male",
+      "subcategory": "Trouser",
+      "brand": "Polo",
+      "color": "Black",
+      "size": "34",
+      "baseprice": 8500,
+      "discount": 85,
+      "finalprice": 1275,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner12.jpg",
+      "pic2": "banner03.jpg",
+      "pic3": "banner01.jpg",
+      "pic4": "banner02.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Female Jeans Slim Fit",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner08.jpg",
+      "pic2": "banner07.jpg",
+      "pic3": "banner06.jpg",
+      "pic4": "banner07.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Female Jeans Mufti",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "28",
+      "baseprice": 8580,
+      "discount": 80,
+      "finalprice": 1716,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner07.jpg",
+      "pic2": "banner08.jpg",
+      "pic3": "banner05.jpg",
+      "pic4": "banner08.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Female Tshirt Adidas",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "White",
+      "size": "MD",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner01.jpg",
+      "pic2": "banner03.jpg",
+      "pic3": "banner02.jpg",
+      "pic4": "banner03.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Female Tshirt White Mufti",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Mufti",
+      "color": "White",
+      "size": "M",
+      "baseprice": 2500,
+      "discount": 85,
+      "finalprice": 375,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner03.jpg",
+      "pic2": "banner08.jpg",
+      "pic3": "banner01.jpg",
+      "pic4": "banner03.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Female Shirt Gucci",
+      "maincategory": "Female",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "color": "White",
+      "size": "M",
+      "baseprice": 8585,
+      "discount": 25,
+      "finalprice": 6438.75,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner06.jpg",
+      "pic2": "banner08.jpg",
+      "pic3": "banner07.jpg",
+      "pic4": "banner08.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Kids Jeans Tommy Hilfiger",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Black",
+      "size": "26",
+      "baseprice": 5000,
+      "discount": 50,
+      "finalprice": 2500,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "product06.jpg",
+      "pic2": "banner08.jpg",
+      "pic3": "banner06.jpg",
+      "pic4": "banner08.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Male Jeans",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "34",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner06.jpg",
+      "pic2": "product02.jpg",
+      "pic3": "banner05.jpg",
+      "pic4": "banner07.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Male Jeans Regular Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": 8585,
+      "discount": 85,
+      "finalprice": 1287.75,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner03.jpg",
+      "pic2": "banner08.jpg",
+      "pic3": "banner07.jpg",
+      "pic4": "banner01.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Male Jeans Ripped",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "32",
+      "baseprice": 9850,
+      "discount": 50,
+      "finalprice": 4925,
+      "stock": "In Stock",
+      "description": "<p>very good product</p>",
+      "pic1": "banner08.jpg",
+      "pic2": "banner07.jpg",
+      "pic3": "banner06.jpg",
+      "pic4": "banner01.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Male Jeans Slim  Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 7800,
+      "discount": 78,
+      "finalprice": 1716,
+      "stock": "In Stock",
+      "description": "<p>This is the sample product</p>",
+      "pic1": "banner02.jpg",
+      "pic2": "banner03.jpg",
+      "pic3": "banner06.jpg",
+      "pic4": "banner07.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Male jeans Adidas",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "34",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>These Wrangler Millard jeans are a must-have for any man looking for a classic, versatile pair. Made from a soft, stretchy cotton fabric, they are designed to be comfortable and breathable. The mid-blue wash gives them a one-of-a-kind look that will keep them fashion-forward. Add on a denim jacket and sneakers for a classic combination.</p>",
+      "pic1": "IMG-20220723-WA0030.jpg",
+      "pic2": "banner02.jpg",
+      "pic3": "banner03.jpg",
+      "pic4": "banner06.jpg"
+    }
+  ],
+  "user": [
+    {
+      "name": "Anshu shukla",
+      "username": "Mannu",
+      "email": "mannu@gmail.com",
+      "phone": "9898989898",
+      "password": "Mannu123",
+      "role": "Admin",
+      "id": 1,
+      "pic": "banner10.jpg"
+    },
+    {
+      "name": "Mannu",
+      "username": "Manu",
+      "email": "mannu1@gmail.com",
+      "phone": "9898989898",
+      "password": "Mannu123",
+      "role": "Buyer",
+      "id": 3,
+      "address": "Kathare sarasawan",
+      "state": "Uttar Pradesh",
+      "city": "manjhanpur",
+      "Pin": "2",
+      "pic": "image-5.jpg",
+      "pin": "212207"
+    }
+  ],
+  "cart": [],
+  "wishlist": [
+    {
+      "productid": "12",
+      "userid": "3",
+      "name": "Female Tshirt White Mufti",
+      "brand": "Mufti",
+      "color": "White",
+      "size": "M",
+      "price": 375,
+      "pic": "banner03.jpg",
+      "id": 1
+    }
+  ],
+  "checkout": [
+    {
+      "userid": "3",
+      "orderstatus": "Order is Placed",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 5000,
+      "shipping": 0,
+      "total": 5000,
+      "date": "2024-03-12T02:49:08.896Z",
+      "product": [
+        {
+          "productid": "14",
+          "userid": "3",
+          "name": "Kids Jeans Tommy Hilfiger",
+          "brand": "Tommy Hilfiger",
+          "color": "Black",
+          "size": "26",
+          "price": 2500,
+          "qty": 2,
+          "total": 5000,
+          "pic": "product06.jpg",
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": "3",
+      "orderstatus": "Order is Placed",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 3447.5,
+      "shipping": 0,
+      "total": 3447.5,
+      "date": "2024-03-12T02:53:21.077Z",
+      "product": [
+        {
+          "productid": "1",
+          "userid": "3",
+          "name": "Male Jeans Slim Fit",
+          "brand": "Mufti",
+          "color": "Black",
+          "size": "30",
+          "price": 3447.5,
+          "qty": 1,
+          "total": 3447.5,
+          "pic": "banner05.jpg",
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "3",
+      "orderstatus": "Order is Placed",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 375,
+      "shipping": 150,
+      "total": 525,
+      "date": "2024-03-12T02:55:53.128Z",
+      "product": [
+        {
+          "productid": "12",
+          "userid": "3",
+          "name": "Female Tshirt White Mufti",
+          "brand": "Mufti",
+          "color": "White",
+          "size": "M",
+          "price": 375,
+          "qty": 1,
+          "total": 375,
+          "pic": "banner03.jpg",
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userid": "3",
+      "orderstatus": "Order is Placed",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 900,
+      "shipping": 150,
+      "total": 1050,
+      "date": "2024-03-12T02:58:55.176Z",
+      "product": [
+        {
+          "productid": "5",
+          "userid": "3",
+          "name": "Male Tshirt Polo",
+          "brand": "Polo",
+          "color": "White",
+          "size": "MD",
+          "price": 900,
+          "qty": 1,
+          "total": 900,
+          "pic": "product07.jpg",
+          "id": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userid": "3",
+      "orderstatus": "Order is Placed",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 750,
+      "shipping": 150,
+      "total": 900,
+      "date": "2024-03-12T03:00:34.049Z",
+      "product": [
+        {
+          "productid": "12",
+          "userid": "3",
+          "name": "Female Tshirt White Mufti",
+          "brand": "Mufti",
+          "color": "White",
+          "size": "M",
+          "price": 375,
+          "qty": 2,
+          "total": 750,
+          "pic": "banner03.jpg",
+          "id": 1
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "newsletter": [
+    {
+      "email": "mannu22072000@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "mannu1@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "mannu@gmail.com",
+      "id": 3
+    }
+  ],
+  "contactus": [
+    {
+      "name": "chandra prakash mishra",
+      "email": "mannu22072000@gmail.com",
+      "phone": "9354757842",
+      "subject": "hello i am mannu",
+      "message": "hello ankush",
+      "data": "2024-03-10T16:29:41.805Z",
+      "id": 1
+    },
+    {
+      "name": "satyam",
+      "email": "satyam123@gmail.com",
+      "phone": "8765434561",
+      "subject": "nothing",
+      "message": "hello mannnu",
+      "data": "2024-03-12T01:04:16.841Z",
+      "id": 2
+    },
+    {
+      "name": "shivam",
+      "email": "shivam123@gmail.com",
+      "phone": "9876545671",
+      "subject": "no metter",
+      "message": "hello",
+      "data": "2024-03-12T01:05:41.140Z",
+      "id": 3
+    }
+  ],
+  "testimonial": [
+    {
+      "id": 1,
+      "name": "Ankush mishra",
+      "message": "My name is mannu mishra and i am a full stack developer.....",
+      "star": "2",
+      "profession": "Full stack developer",
+      "pic": "banner01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "chandra prakash mishra",
+      "message": "My name is Chandra prakash mishra . i am a full stack developer",
+      "star": "4",
+      "profession": "Full stack developer",
+      "pic": "banner02.jpg"
+    },
+    {
+      "name": "Mannu",
+      "message": "this is very good student",
+      "star": "4",
+      "profession": "Student",
+      "pic": "banner04.jpg",
+      "id": 3
+    }
+  ]
+}
